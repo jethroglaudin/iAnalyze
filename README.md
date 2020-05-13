@@ -13,7 +13,7 @@ Current version of this app utlizes
 
 Links: 
 
-[Auth-MicroService] (https://github.com/jethroglaudin/iAnalyzeAuthMicroService)
-[Big-Data-MicroService] (https://github.com/jethroglaudin/iAnalyzeBigDataMicroService)
-[API-Gateway] (https://github.com/jethroglaudin/iAnalyzeApiGateway)
-[DiscoveryServer] (https://github.com/jethroglaudin/iAnalyzeDiscoveryServer)
+[Github] (https://github.com/jethroglaudin/iAnalyzeAuthMicroService)
+[Github] (https://github.com/jethroglaudin/iAnalyzeBigDataMicroService)
+[Github] (https://github.com/jethroglaudin/iAnalyzeApiGateway)
+[Github] (https://github.com/jethroglaudin/iAnalyzeDiscoveryServer)
