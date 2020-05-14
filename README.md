@@ -1,4 +1,5 @@
-## iAnalyze is a Full Stack Micro-Service application using Java.
+## iAnalyze
+# A full stack micro-service architecture web application.
 
 ## Summary
 iAnalyze will allow clients to read in big datasets, analyze data for trends and generate reports based on queries.
