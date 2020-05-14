@@ -15,6 +15,9 @@ Current iteration of this application includes
 Links: 
 
 [Authorization Micro-Service](https://github.com/jethroglaudin/iAnalyzeAuthMicroService)
+
 [Big Data Processing Micro-Service](https://github.com/jethroglaudin/iAnalyzeBigDataMicroService)
+
 [Api Gateway(Zuul)](https://github.com/jethroglaudin/iAnalyzeApiGateway)
+
 [Discovery Server(Eureka)](https://github.com/jethroglaudin/iAnalyzeDiscoveryServer)
