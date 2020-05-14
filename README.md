@@ -1,9 +1,10 @@
 ## iAnalyze is a Full Stack Micro-Service application using Java.
----
 
-iAnalyze will allow clients to read in big data files from a csv and persist them to a database on the cloud.
-
+## Summary
+iAnalyze will allow clients to read in big datasets, analyze data for trends and generate reports based on queries.
 Current MVP version takes a csv file of over 24 million records and persists them to MongoDB Atlas
+
+## Services
 
 Current iteration of this application includes 
 * Authorization Microservice
@@ -12,7 +13,7 @@ Current iteration of this application includes
 * Zuul API Gateway
 
 
-Links: 
+## Links: 
 
 [Authorization Micro-Service](https://github.com/jethroglaudin/iAnalyzeAuthMicroService)
 
